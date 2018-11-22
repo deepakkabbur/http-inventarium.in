@@ -1,0 +1,2 @@
+webpackJsonp([28],{240:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n(309),u=n(376),c=n(26),a=c(r.a,u.a,!1,null,null,null);t.default=a.exports},309:function(e,t,n){"use strict";t.a={name:"procurement-view"}},376:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("h2",[e._v("Procurement View")])},u=[],c={render:r,staticRenderFns:u};t.a=c}});
+//# sourceMappingURL=28.f9fb47555e6ce1ab7a79.js.map
