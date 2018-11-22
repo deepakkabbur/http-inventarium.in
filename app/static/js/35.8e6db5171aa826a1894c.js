@@ -1,0 +1,2 @@
+webpackJsonp([35],{220:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a=t(275),r=t(333),s=t(26),u=s(a.a,r.a,!1,null,null,null);n.default=u.exports},275:function(e,n,t){"use strict";n.a={name:"banks-view"}},333:function(e,n,t){"use strict";var a=function(){var e=this,n=e.$createElement;return(e._self._c||n)("h2",[e._v("Bank")])},r=[],s={render:a,staticRenderFns:r};n.a=s}});
+//# sourceMappingURL=35.8e6db5171aa826a1894c.js.map
