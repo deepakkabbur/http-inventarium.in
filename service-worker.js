@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a3c2b140821dad664d776cf86939c2ce.js"
+  "/precache-manifest.266dc60e0abe5e8dbfd78b50760a90eb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "agastya"});
