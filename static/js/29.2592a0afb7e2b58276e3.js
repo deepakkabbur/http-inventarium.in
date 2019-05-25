@@ -1,2 +1,0 @@
-webpackJsonp([29],{209:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(265),r=a(323),s=a(26),u=s(n.a,r.a,!1,null,null,null);t.default=u.exports},265:function(e,t,a){"use strict";var n=a(28);t.a={components:{DashboardLayout:n.a}}},323:function(e,t,a){"use strict";var n=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("dashboard-layout",[a("h2",[e._v("Organization")])])},r=[],s={render:n,staticRenderFns:r};t.a=s}});
-//# sourceMappingURL=29.2592a0afb7e2b58276e3.js.map
