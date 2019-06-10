@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.266dc60e0abe5e8dbfd78b50760a90eb.js"
+  "/precache-manifest.343680e979f6e666084c1325b241c779.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "agastya"});
+workbox.core.setCacheNameDetails({prefix: "GENTHERM"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
