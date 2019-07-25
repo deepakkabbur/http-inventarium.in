@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.343680e979f6e666084c1325b241c779.js"
+  "/precache-manifest.25ea65c0077cae2800f2d2d902ca8c1a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "GENTHERM"});
