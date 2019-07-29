@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.25ea65c0077cae2800f2d2d902ca8c1a.js"
+  "/precache-manifest.84c4b6f950e47a307858cafa72e02093.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "GENTHERM"});
